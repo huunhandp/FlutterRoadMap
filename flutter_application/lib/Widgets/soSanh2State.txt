@@ -1,0 +1,11 @@
+điểm giống nhau : cả 2 dều có hàm built
+điểm khác 
+ statelesswidget                        statefullwidget
+ over lại hàm built                 over lại hàm createState
+                                    extend lại State của cái trên 
+ko có các hàm như initState
+                setState             
+
+không thay đổi giao diện người       thay đổi khi người dùng tương tác
+dùng                    
+ 
